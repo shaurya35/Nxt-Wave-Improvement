@@ -2,7 +2,7 @@
 
 Website improvement
 
-- To View the video donwload it from nxtwave.mp4 in the directory
+- To download the improved video, refer to the above directory nxtwave.mp4
 
 ## Table of Contents
 
