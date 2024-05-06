@@ -1,8 +1,62 @@
-# React + Vite
+# NxtWave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website improvement
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+- Improved website design from a img file to a dynamic web slider.
+
+## Features
+
+- slider
+- looks dynamic
+
+## Dependencies
+
+- React
+- Styled-components
+
+## Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/shaurya35/Nxt-Wave-Improvement
+cd Next-Wave-Improvement
+```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+Run the Streamlit app to launch the web interface:
+
+```bash
+npm run dev
+```
+
+Access the app in your web browser at `http://localhost:5173/`.
+
+## Contributors
+
+- Your Name ([LinkedIn](https://www.linkedin.com/in/shaurya--jha/))
+
+## Acknowledgments
+
+- All the content belongs to the respected owners.
+
