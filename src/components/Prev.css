@@ -1,0 +1,15 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oldimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oldimg{
+    width: 50%;
+}
