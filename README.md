@@ -2,7 +2,7 @@
 
 Website improvement
 
-[![Watch the video](nxtwave.mp4)](nxtwave.mp4)
+[![Watch the video](nxtwave2.mp4)](nxtwave2.mp4)
 
 ## Table of Contents
 
