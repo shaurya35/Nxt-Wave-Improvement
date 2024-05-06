@@ -2,7 +2,7 @@
 
 Website improvement
 
-[![Watch the video](nxtwave2.mp4)](nxtwave2.mp4)
+- To View the video donwload it from nxtwave.mp4 in the directory
 
 ## Table of Contents
 
