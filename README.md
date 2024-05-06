@@ -2,7 +2,7 @@
 
 Website improvement
 
-<iframe width="560" height="315" src="nxtwave.mp4" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](nxtwave.mp4)](nxtwave.mp4)
 
 ## Table of Contents
 
